@@ -1,0 +1,7 @@
+  prod:
+    branch: master
+    heroku:
+      appname: mg-s-d-top-spots
+machine:
+  node:
+    version: 8.1.4
